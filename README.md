@@ -3,11 +3,7 @@
 
 > 把 ai 当人用
 
-关于如何与 AI 协作、以及团队该如何管理 AI 的一组文章。
-
 ## 目录
-
-完整索引见 [index.md](index.md)，内容如下。
 
 ### 1. 一个使用 ai 的好方式
 
@@ -27,11 +23,3 @@
 - [2.5 知识管理组：知识维护者](团队管理ai的可能性/2.5-知识管理组：知识维护者.md)
 - [2.6 灵活变通](团队管理ai的可能性/2.6-灵活变通.md)
 - [2.7 怎么算做得好](团队管理ai的可能性/2.7-怎么算做得好.md)
-
-## 导出 Word
-
-```bash
-pip install python-docx
-python md2docx.py                    # 按 index.md 的章节顺序导出 Word
-python md2docx.py -o 把ai当人用.docx  # 指定输出文件名
-```
