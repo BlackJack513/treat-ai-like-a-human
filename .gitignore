@@ -1,0 +1,22 @@
+# ---- DSH 本地配置与技能（不上传）----
+.dsh/
+
+# ---- IDE ----
+.idea/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version
+
+# ---- md2docx.py 导出的 Word 产物 ----
+*.docx
+~$*.docx
+
+# ---- 系统 / 编辑器杂项 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
